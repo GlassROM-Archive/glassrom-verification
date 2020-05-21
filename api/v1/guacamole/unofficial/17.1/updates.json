@@ -1,0 +1,22 @@
+{
+  "response": [
+    {
+     "datetime": 1590065705,
+     "filename": "signed-ota_update.zip",
+     "id": "2f1895d90aeef3416a2bf1d0caba4d77b5b1",
+     "romtype": "unofficial",
+     "size": 932917170,
+     "url": "https://github.com/GlassROM/glassrom-landing/releases/download/20200521-guacamole/signed-ota_update.zip",
+     "version": "17.1"
+    },
+    {
+     "datetime": 1590065705,
+     "filename": "signed-ota_update_patch.zip",
+     "id": "705b78467a34154e344ae484bf542cf8fb34",
+     "romtype": "unofficial",
+     "size": 40630275,
+     "url": "https://github.com/GlassROM/glassrom-landing/releases/download/20200521-guacamole/signed-ota_update_patch.zip",
+     "version": "17.1"
+    }
+  ]
+}
